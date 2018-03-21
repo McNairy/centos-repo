@@ -1,0 +1,6 @@
+[centos]
+name=CentOS 7
+baseurl=https://mirror.umd.edu/centos/7/os/x86_64/
+enabled=0
+gpgcheck=1
+gpgkey=https://mirror.umd.edu/centos/RPM-GPG-KEY-CentOS-7
